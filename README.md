@@ -35,6 +35,6 @@ And the output file will be `apk_to_decompile-dex2jar.jar`.
 ## Need help ?
 post on issue trackers list above.
 
-## License
+##Licens
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
